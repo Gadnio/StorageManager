@@ -1,0 +1,5 @@
+name: ExamplePlugin
+version: '1'
+main: dev.improve.ExamplePlugin
+api-version: '1.21'
+authors: [Improve]
